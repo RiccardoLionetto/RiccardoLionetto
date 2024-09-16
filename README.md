@@ -8,7 +8,6 @@ I'm Riccardo, a MSc Electronics Engineering student at EPFL. My projects and int
 ### 🙋🏻‍♂️ Current projects
 - 📡 <b>Telecommunication: </b> developing an SDR implementation of a LPWAN protocol's physical layer. Repository will be soon available!
 - 🟩 <b> Circuit design: </b> working on the electronic design concerning a drone aviation system. Repository will be soon available!
-<br>
 
 ### 📬 Contact Me
 Reach me out on [LinkedIn](https://www.linkedin.com/in/riccardo-lionetto/)!
